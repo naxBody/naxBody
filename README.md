@@ -1,6 +1,5 @@
           <h1>👋 Hello! I'm Artem</h1>
 
-     [ЗМЕЙКА ПО ЦЕНТРУ — КРУПНАЯ И ЧЁТКАЯ]
 
    🎓 Student at PSU, Belarus | 💻 C# & PHP Developer | 🌐 Learning English (A1 → A2) | 📚 Love books and games
 
