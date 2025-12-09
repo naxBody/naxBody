@@ -4,13 +4,11 @@
 
 <br><br>
 
-🎓 Student at PSU, Belarus • 💻 C# & PHP Developer • 🌐 Learning English (A1 → A2) • 📚 Love books and games
+🎓 Student at PSU, Belarus • 💻 C# & PHP Developer • 🌐 Learning English (A2 -> B1) • 📚 Love books and games
 
 <br><br>
 
-   🎓 #Student at PSU, Belarus | 💻 C# & PHP Developer 
    [КНОПКИ: Email | Telegram | YouTube]
 
    💬 Let's connect! I'm open to collaboration.
 
-   ![GitHub Snake Dark](https://raw.githubusercontent.com/naxBody/naxBody/output/dist/github-snake-dark.svg)
