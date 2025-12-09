@@ -1,1 +1,1 @@
-![GitHub Snake](https://raw.githubusercontent.com/naxBody/naxBody/output/github-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/naxBody/naxBody/output/dist/ocean.gif)
