@@ -25,7 +25,7 @@
 <h1><strong>My contact details 🔗</strong></h1>
 <div>
   <a href="https://t.me/naxBody">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="25" alt="Telegram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="28" alt="Telegram" />
   </a>
   <a href="https://discord.com/users/r23eewwe">
     <img src="https://img.icons8.com/color/48/000000/discord.png" width="30" alt="Discord" />
