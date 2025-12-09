@@ -9,8 +9,8 @@
 
 💬 I’m always open to collaboration, interesting projects, and meaningful conversations! 
 
-<h1><strong>Languages and tools 🛠</strong></h1>
 
+<h1><strong>Languages and tools 🛠</strong></h1>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/csharp/csharp-original.svg" width="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/html5/html5-original.svg" width="40" alt="HTML5" />
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/github.png" width="40" alt="GitHub" />
 </div>
+
 
 <h1><strong>My contact details 🔗</strong></h1>
 <div>
