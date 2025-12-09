@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/naxBody/naxBody/output/dist/github-snake-dark.svg" width="650" />
 
 <br><br>
-
+<h1>👋 <strong>About me</strong></h1>
 🎓 Student at PSU, Belarus • 💻 C# & PHP Developer • 🌐 Learning English (A2 -> B1) • 📚 Love books and games
 
 <br><br>
