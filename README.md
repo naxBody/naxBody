@@ -45,7 +45,7 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" alt="Instagram" />
   </a>
   <a href="https://steamcommunity.com/id/ВАШ-STEAM-ID">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="35" alt="Steam" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="30" alt="Steam" />
   </a>
   <a href="https://youtube.com/@ВАШ-YOUTUBE-КАНАЛ">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" alt="YouTube" />
