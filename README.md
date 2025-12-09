@@ -1,7 +1,5 @@
 <div align="center">
-
 <h1>👋 <strong>Hello! I'm Artem</strong></h1>
-
 <img src="https://raw.githubusercontent.com/naxBody/naxBody/output/dist/github-snake-dark.svg" width="650" />
 
 <br><br>
