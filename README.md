@@ -1,7 +1,6 @@
 # 👋 **HELLO! I'M ARTEM**
 
-   🎓 #Student at PSU, Belarus | 💻 C# & PHP Developer | 🌐 Learning English (A1 → A2) | 📚 Love books and games
-
+   🎓 #Student at PSU, Belarus | 💻 C# & PHP Developer 
    [КНОПКИ: Email | Telegram | YouTube]
 
    💬 Let's connect! I'm open to collaboration.
