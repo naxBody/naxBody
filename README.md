@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/artem_4uk_l/">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram" />
   </a>
-  <a href="https://steamcommunity.com/id/76561199063002540/">
+  <a href="https://steamcommunity.com/id/76561199063002540">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="28" alt="Steam" />
   </a>
 </div>
