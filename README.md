@@ -36,18 +36,18 @@
 <h1><strong>My contact details 🔗</strong></h1>
 <div>
   <a href="https://discord.com/users/r23eewwe">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/discord/discord-original.svg" width="40" alt="Discord" />
+    <img src="https://img.icons8.com/color/48/000000/discord.png" width="40" alt="Discord" />
   </a>
   <a href="https://vk.com/id564037600">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/vk/vk-original.svg" width="40" alt="VK" />
+    <img src="https://img.icons8.com/color/48/000000/vk.png" width="40" alt="VK" />
   </a>
   <a href="https://www.instagram.com/artem_4uk_l/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/instagram/instagram-original.svg" width="40" alt="Instagram" />
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" alt="Instagram" />
   </a>
   <a href="https://steamcommunity.com/id/ВАШ-STEAM-ID">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/steam/steam-original.svg" width="40" alt="Steam" />
+    <img src="https://img.icons8.com/color/48/000000/steam.png" width="40" alt="Steam" />
   </a>
   <a href="https://youtube.com/@ВАШ-YOUTUBE-КАНАЛ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/youtube/youtube-original.svg" width="40" alt="YouTube" />
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" alt="YouTube" />
   </a>
 </div>
