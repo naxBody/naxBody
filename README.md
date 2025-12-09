@@ -9,15 +9,6 @@
 
 💬 I’m always open to collaboration, interesting projects, and meaningful conversations! 
 
-
-
-<br><br>
-
-[КНОПКИ: Email | Telegram | YouTube]
-
-💬 Let's connect! I'm open to collaboration.
-
-
 <h1><strong>Languages and tools 🛠</strong></h1>
 
 <div>
