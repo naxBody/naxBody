@@ -6,7 +6,7 @@
 
 </div>
 
-<h1><strong>About me</strong></h1>
+#**About me**
 
 🎓 I'm a PSU student • 💻 C# & PHP Developer • 🌐 Learning English (A2 → B1) • 📚 Love books and games
 
@@ -16,7 +16,7 @@
 
 💬 Let's connect! I'm open to collaboration.
 
-<h1><strong>Languages and tools 🛠</strong></h1>
+#**Languages and tools 🛠**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/csharp/csharp-original.svg" width="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/html5/html5-original.svg" width="40" alt="HTML5" />
