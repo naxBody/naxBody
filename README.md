@@ -27,4 +27,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/css3/css3-original.svg" width="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/github/github-original.svg" width="40" alt="GitHub" />
 </div>
