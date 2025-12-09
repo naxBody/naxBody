@@ -1,6 +1,6 @@
-<p style="margin: 0; font-size: 3.8rem; font-weight: 900; letter-spacing: -1px;">
-  👋 Hello! <span style="text-transform: uppercase;">I'm Artem</span>
-</p>
+<div style="font-size: 4rem; font-weight: 900; letter-spacing: -1px; text-transform: uppercase; display: inline-block; margin: 0; padding: 0;">
+  👋 Hello! I'm Artem
+</div>
 
    🎓 Student at PSU, Belarus | 💻 C# & PHP Developer | 🌐 Learning English (A1 → A2) | 📚 Love books and games
 
