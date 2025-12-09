@@ -1,1 +1,1 @@
-![snake gif](https://github.com/naxBody/naxBody/blob/output/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/naxBody/naxBody/output/github-snake.svg)
