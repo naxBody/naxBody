@@ -11,34 +11,35 @@
 
    💬 Let's connect! I'm open to collaboration.
 <h1><strong>Languages and tools 🛠</strong></h1>
-<!-- Маленькие иконки -->
+
+!-- Маленькие квадратные иконки -->
   <div>
     <a href="https://dotnet.microsoft.com/">
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/csharp/csharp-original.svg" width="40" alt="C#" />
     </a>
     <a href="https://www.php.net/">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/php/php-original.svg" width="40" alt="PHP" />
     </a>
     <a href="https://www.python.org/">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/python/python-original.svg" width="40" alt="Python" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
     </a>
     <a href="https://www.typescriptlang.org/">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
     </a>
     <a href="https://html.spec.whatwg.org/">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/html5/html5-original.svg" width="40" alt="HTML5" />
     </a>
     <a href="https://www.w3.org/Style/CSS/">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/css3/css3-original.svg" width="40" alt="CSS3" />
     </a>
     <a href="https://git-scm.com/">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/git/git-original.svg" width="40" alt="Git" />
     </a>
     <a href="https://code.visualstudio.com/">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/vscode/vscode-original.svg" width="40" alt="Visual Studio Code" />
     </a>
   </div>
 
