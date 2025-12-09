@@ -1,5 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/44d58deb-60f5-400f-b2c1-eb0ccd0da10b" /><div align="center">
-
   <h1>👋 <strong>Hello! I'm Artem</strong></h1>
 
   <img src="https://raw.githubusercontent.com/naxBody/naxBody/output/dist/github-snake-dark.svg" width="650" />
