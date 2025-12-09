@@ -1,5 +1,8 @@
-          <h1>👋 Hello! I'm Artem</h1>
-
+<div align="center">
+  <p style="margin: 0; font-size: 3.8rem; font-weight: 900; letter-spacing: -1px;">
+    👋 Hello! I'm Artem
+  </p>
+</div>
 
    🎓 Student at PSU, Belarus | 💻 C# & PHP Developer | 🌐 Learning English (A1 → A2) | 📚 Love books and games
 
