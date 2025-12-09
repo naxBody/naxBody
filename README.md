@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 **Hello! I'm Artem**
+# 👋***Hello! I'm Artem***
 ![GitHub Snake Dark](https://raw.githubusercontent.com/naxBody/naxBody/output/dist/github-snake-dark.svg)
 </div>
 
