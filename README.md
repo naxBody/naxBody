@@ -25,7 +25,7 @@
 <h1><strong>My contact details 🔗</strong></h1>
 <div>
   <a href="https://t.me/naxBody">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="27" alt="Telegram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="28" alt="Telegram" />
   </a>
   <a href="https://discord.com/users/r23eewwe">
     <img src="https://img.icons8.com/color/48/000000/discord.png" width="30" alt="Discord" />
@@ -37,7 +37,7 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram" />
   </a>
   <a href="https://steamcommunity.com/id/ВАШ-STEAM-ID">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="27" alt="Steam" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="28" alt="Steam" />
   </a>
   <a href="https://youtube.com/@ВАШ-YOUTUBE-КАНАЛ">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30" alt="YouTube" />
