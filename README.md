@@ -21,6 +21,8 @@
 💬 Let's connect! I'm open to collaboration.
 
 <h1><strong>Languages and tools 🛠</strong></h1>
+<h1><strong>Languages and tools 🛠</strong></h1>
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/csharp/csharp-original.svg" width="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/html5/html5-original.svg" width="40" alt="HTML5" />
@@ -29,5 +31,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/visualstudio/visualstudio-original.svg" width="40" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/figma/figma-original.svg" width="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/github/github-original-colored.svg" width="40" alt="GitHub" />
 </div>
