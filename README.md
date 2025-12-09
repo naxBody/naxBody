@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="margin: 0; font-size: 10rem; font-weight: 900; letter-spacing: -1px;">
+  <p style="margin: 0; font-size: 10; font-weight: 900; letter-spacing: -1px;">
     👋 Hello! I'm Artem
   </p>
 </div>
