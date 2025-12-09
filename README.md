@@ -39,7 +39,4 @@
   <a href="https://steamcommunity.com/id/ВАШ-STEAM-ID">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="28" alt="Steam" />
   </a>
-  <a href="https://youtube.com/@artem12388">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30" alt="YouTube" />
-  </a>
 </div>
