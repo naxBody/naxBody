@@ -1,6 +1,10 @@
 <div align="center">
-<h1>👋 <strong>Hello! I'm Artem</strong></h1>
-  <img src="https://raw.githubusercontent.com/naxBody/naxBody/output/dist/github-snake-dark.svg" width="650" />
+  <h1>👋 <strong>Hello! I'm Artem</strong></h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naxBody/naxBody/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naxBody/naxBody/output/dist/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/naxBody/naxBody/output/dist/github-snake.svg" width="650" />
+  </picture>
 </div>
 
 <h1><strong>About me</strong></h1>
