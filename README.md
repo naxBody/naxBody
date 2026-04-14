@@ -41,6 +41,6 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram" />
   </a>
   <a href="https://steamcommunity.com/profiles/76561199063002540/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/steam.svg" width="30" alt="Steam" />
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="100" alt="Steam" />
 </a>
 </div>
