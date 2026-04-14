@@ -16,15 +16,30 @@
 
 <h1><strong>Languages and tools 🛠</strong></h1>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/figma/figma-original.svg" width="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/github.png" width="40" alt="GitHub" />
-  <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40" alt="Android" />
-  
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/git/git-original.svg" width="40" alt="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/github.png" width="40" alt="GitHub" />
+  </a>
+  <a href="https://developer.android.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40" alt="Android" />
+  </a>
 </div>
 
 
