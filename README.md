@@ -46,8 +46,8 @@
 <h1><strong>My contact details 🔗</strong></h1>
 <div>
   <a href="https://t.me/naxBody">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="28" alt="Telegram" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/telegram/telegram-original.svg" width="30" alt="Telegram" />
+</a>
   <a href="https://discord.com/users/r23eewwe">
     <img src="https://img.icons8.com/color/48/000000/discord.png" width="30" alt="Discord" />
   </a>
