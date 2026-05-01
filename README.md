@@ -57,7 +57,9 @@
   <a href="https://www.instagram.com/artem_4uk_l/">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram" />
   </a>
-<a href="https://steamcommunity.com/profiles/76561199063002540/" style="font-size: 28px; text-decoration: none;">🎮</a>
+<a href="https://steamcommunity.com/profiles/76561199063002540/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" width="30" height="30" alt="Steam" />
+</a>
 
 
 
