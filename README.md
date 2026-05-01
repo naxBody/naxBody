@@ -9,7 +9,7 @@
 
 <h1><strong>About me</strong></h1>
 
-🎓 I’m a 20-year-old backend developer and a Computer Science student at PSU. I enjoy building robust, efficient server-side applications with C#.Currently deepening my knowledge in software architecture, APIs, and system design. I’m also improving my English (A2 → B1) to collaborate more effectively in global tech communities. 
+🎓 I’m a 20-year-old backend developer and a Computer Science student at <a href="https://www.polessu.by/">Pollesky State University</a>.. I enjoy building robust, efficient server-side applications with C#.Currently deepening my knowledge in software architecture, APIs, and system design. I’m also improving my English (A2 → B1) to collaborate more effectively in global tech communities. 
 
 💬 I’m always open to collaboration, interesting projects, and meaningful conversations! 
 
