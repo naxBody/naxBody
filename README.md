@@ -9,9 +9,9 @@
 
 <h1><strong>About me</strong></h1>
 
-🎓 I'm a 20-year-old backend developer and a Computer Science student at PSU. I enjoy building robust, efficient server-side applications with C#. Currently deepening my knowledge in software architecture, APIs, and system design. I'm also improving my English (A2 → B1) to collaborate more effectively in global tech communities. 
+🎓 I’m a 20-year-old backend developer and a Computer Science student at PSU. I enjoy building robust, efficient server-side applications with C#.Currently deepening my knowledge in software architecture, APIs, and system design. I’m also improving my English (A2 → B1) to collaborate more effectively in global tech communities. 
 
-💬 I'm always open to collaboration, interesting projects, and meaningful conversations! 
+💬 I’m always open to collaboration, interesting projects, and meaningful conversations! 
 
 
 <h1><strong>Languages and tools 🛠</strong></h1>
@@ -44,6 +44,23 @@
 
 
 <h1><strong>My contact details 🔗</strong></h1>
-<div style="display: flex; align-items: center; gap: 5px; flex-wrap: nowrap;">
-<a href="https://t.me/naxBody"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="30" alt="Telegram" /></a><a href="https://discord.com/users/r23eewwe"><img src="https://img.icons8.com/color/48/000000/discord.png" width="30" alt="Discord" /></a><a href="https://vk.com/id564037600"><img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" width="30" alt="VK" /></a><a href="https://www.instagram.com/artem_4uk_l/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram" /></a><a href="https://steamcommunity.com/profiles/76561199063002540/"><img src="https://cdn.simpleicons.org/steam" width="30" height="30" alt="Steam" /></a>
+<div>
+  <a href="https://t.me/naxBody">
+  <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="30" alt="Telegram" />
+</a>
+  <a href="https://discord.com/users/r23eewwe">
+    <img src="https://img.icons8.com/color/48/000000/discord.png" width="30" alt="Discord" />
+  </a>
+  <a href="https://vk.com/id564037600">
+    <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" width="30" alt="VK" />
+  </a>
+  <a href="https://www.instagram.com/artem_4uk_l/">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram" />
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199063002540/">
+    <img src="https://unpkg.com/simple-icons@v9/icons/steam.svg" width="27" height="28" alt="Steam" style="filter: invert(0%)" />
+</a>
 </div>
+
+
+Вот скинь готовый файл чтобы steam был на одной строке с остальнымм
