@@ -57,7 +57,7 @@
   <a href="https://www.instagram.com/artem_4uk_l/">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram" />
   </a>
-  <a href="https://steamcommunity.com/profiles/76561199063002540/" style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/steam/steam-original.svg" width="30" height="30" alt="Steam" />
+  <a href="https://steamcommunity.com/profiles/76561199063002540/" style="display: inline-block; margin: 0 2px;">
+  <img src="https://cdn.simpleicons.org/steam" width="28" height="28" alt="Steam" style="display: block;" />
 </a>
 </div>
