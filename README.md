@@ -57,8 +57,8 @@
   <a href="https://www.instagram.com/artem_4uk_l/">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram" />
   </a>
-  <a href="https://steamcommunity.com/profiles/76561199063002540/">
-    <img src="https://unpkg.com/simple-icons@v9/icons/steam.svg" width="27" height="28" alt="Steam" style="filter: invert(0%)" />
-</a>
+   <a href="https://steamcommunity.com/profiles/76561199063002540/">
+    <img src="https://img.icons8.com/color/48/000000/steam.png" width="30" alt="Steam" />
+  </a>
 </div>
 
