@@ -58,7 +58,7 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram" />
   </a>
    <a href="https://steamcommunity.com/profiles/76561199063002540/">
-    <img src="https://img.icons8.com/color/48/000000/steam.png" width="30" alt="Steam" />
-  </a>
+  <img src="https://img.icons8.com/ios-filled/50/steam-logo.png" width="30" alt="Steam" />
+</a>
 </div>
 
